@@ -1,4 +1,8 @@
 # AICUP Baseline: BoT-SORT
+更改的檔案只有 ReID Module 的 config file：fast_reid/configs/AICUP/bagtricks_R50-ibn.yml
+以及 YOLOv7 的 yolov7/data/AICUP.yaml
+
+因此訓練部分執行步驟皆與 baseline 程式碼相同。
 
 ## Tracking and creating the submission file for AICUP (Demo)
 
