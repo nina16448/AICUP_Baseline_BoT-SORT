@@ -1,6 +1,6 @@
 # AICUP Baseline: BoT-SORT
-更改的檔案只有 ReID Module 的 config file：fast_reid/configs/AICUP/bagtricks_R50-ibn.yml
-以及 YOLOv7 的 yolov7/data/AICUP.yaml
+更改的檔案只有 ReID Module 的 config file：[fast_reid/configs/AICUP/bagtricks_R50-ibn.yml](https://github.com/nina16448/AICUP_Baseline_BoT-SORT/blob/main/fast_reid/configs/AICUP/bagtricks_R50-ibn.yml)  
+以及 YOLOv7 的 [yolov7/data/AICUP.yaml](https://github.com/nina16448/AICUP_Baseline_BoT-SORT/blob/main/yolov7/data/AICUP.yaml) 及 [yolov7/data/hyp.scratch.custom.yaml](https://github.com/nina16448/AICUP_Baseline_BoT-SORT/blob/main/yolov7/data/hyp.scratch.custom.yaml)  
 
 因此訓練部分執行步驟皆與 baseline 程式碼相同，請參考： [https://github.com/ricky-696/AICUP_Baseline_BoT-SORT](https://github.com/ricky-696/AICUP_Baseline_BoT-SORT) 。
 
